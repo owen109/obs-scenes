@@ -12,4 +12,4 @@ Together they create a remote which over a local network can switch between OBS 
 7. Back to OBS Scenes fill in all feilds
 8. Press the big button and copy the shared link into your mobile broswer
 9. In the broswerclick share and find "Save To Homesceen"
-10.Once saved, open it up and Your Done!
+10. Once saved, open it up and Your Done!
