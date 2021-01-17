@@ -8,7 +8,7 @@ Together they create a remote which over a local network can switch between OBS 
 3. Install the obs-web-socket plugin
 4. Open up OBS
 5. Under tools click WebSockets Server Settings
-6. fill in your prefered settings
+6. Fill in your prefered settings
 7. Back to OBS Scenes fill in all feilds
 8. Press the big button and copy the shared link into your mobile broswer
 9. In the broswerclick share and find "Save To Homesceen"
