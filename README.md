@@ -26,4 +26,4 @@ OBS Websocket plugin -- https://github.com/Palakis/obs-websocket/releases/tag/4.
 
 9. In the broswer click share and find "Save To Homesceen"
 
-10. Once saved open it up, and Your Done!
+10. Once saved, open it up, and Your Done!
