@@ -1,11 +1,15 @@
-# obs-scenes
-This is an application for the creation of a server which can interact with the obs-web-socket plugin.
+# Obs-Scenes
+This is an application for the creation of a server which can interact with the obs-websocket plugin.
 Together they create a remote which over a local network can switch between OBS scenes
 
-# use
+# Downloads
+Node.js -- https://nodejs.org/en/
+OBS Websocket plugin -- https://github.com/Palakis/obs-websocket/releases/tag/4.8.0
+
+# Use
 1. Unzip
 2. Open up the OBS Scenes shortcut
-3. Install the obs-web-socket plugin
+3. Install the obs-websocket plugin
 4. Open up OBS
 5. Under tools click WebSockets Server Settings
 6. Fill in your prefered settings
