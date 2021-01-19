@@ -24,6 +24,6 @@ OBS Websocket plugin -- https://github.com/Palakis/obs-websocket/releases/tag/4.
 
 8. Press the big button and copy the shared link into your mobile broswer
 
-9. In the broswerclick share and find "Save To Homesceen"
+9. In the broswer click share and find "Save To Homesceen"
 
-10. Once saved, open it up and Your Done!
+10. Once saved open it up, and Your Done!
