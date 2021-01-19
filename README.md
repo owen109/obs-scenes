@@ -1,4 +1,5 @@
-# Obs-Scenes
+
+# OBS-Scenes
 This is an application for the creation of a server which can interact with the obs-websocket plugin.
 Together they create a remote which over a local network can switch between OBS scenes
 
