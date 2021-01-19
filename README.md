@@ -9,12 +9,21 @@ OBS Websocket plugin -- https://github.com/Palakis/obs-websocket/releases/tag/4.
 
 # Use
 1. Unzip
+
 2. Open up the OBS Scenes shortcut
+
 3. Install the obs-websocket plugin
+
 4. Open up OBS
+
 5. Under tools click WebSockets Server Settings
+
 6. Fill in your prefered settings
+
 7. Back to OBS Scenes fill in all feilds
+
 8. Press the big button and copy the shared link into your mobile broswer
+
 9. In the broswerclick share and find "Save To Homesceen"
+
 10. Once saved, open it up and Your Done!
