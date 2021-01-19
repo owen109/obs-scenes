@@ -3,9 +3,9 @@ This is an application for the creation of a server which can interact with the 
 Together they create a remote which over a local network can switch between OBS scenes
 
 # Downloads
-1. Node.js -- https://nodejs.org/en/
+Node.js -- https://nodejs.org/en/
 
-2. OBS Websocket plugin -- https://github.com/Palakis/obs-websocket/releases/tag/4.8.0
+OBS Websocket plugin -- https://github.com/Palakis/obs-websocket/releases/tag/4.8.0
 
 # Use
 1. Unzip
